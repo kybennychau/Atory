@@ -1,1 +1,2 @@
 Hello this is the first time I use Git. Please do not tease me.
+I am also trying out on my branching on Git.
